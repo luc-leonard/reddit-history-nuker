@@ -1,7 +1,4 @@
 import praw
-import datetime
-from elasticsearch import Elasticsearch
-import progressbar
 import string
 import random
 
